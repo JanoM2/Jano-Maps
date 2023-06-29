@@ -1,4 +1,7 @@
-# maps-app
+# Jano-Maps
+Proyecto utilizando Mapbox y Vue js.
+
+Podes verlo haciendo click en: https://jano-maps.netlify.app/
 
 ## Project setup
 ```
