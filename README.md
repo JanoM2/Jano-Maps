@@ -1,7 +1,13 @@
 # Jano-Maps
-Proyecto utilizando Mapbox y Vue js.
+Application with Mapbox and Vue.js
 
-Podes verlo haciendo click en: https://jano-maps.netlify.app/
+Technologies used:
+- I used Vue js, Vuex, Vue Router, Axios, TypeScript, Html, Css and Mapbox API
+
+I learned things like:
+- Creation of reusable and modular components, global state management, implementation of dynamic and nested routes, HTTP requests, and API handling.  
+
+📍 You can see the Demo here: [Map](https://jano-maps.netlify.app/)
 
 ## Project setup
 ```
@@ -18,10 +24,8 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+### This usually run at http://localhost:8080/
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Preview  
+![image](https://github.com/JanoM2/Jano-Maps/assets/78227130/7823cb4b-cb64-486c-a50e-4cbcdccb4554)
+![image](https://github.com/JanoM2/Jano-Maps/assets/78227130/967d81b7-685c-4731-ab5e-ab03820a565a)
